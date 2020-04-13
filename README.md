@@ -18,7 +18,7 @@ Bill of Materials:
 
 
 # Week 1
-First thing to do was obviously the formation of our group. We formed a group of four, with two it-students, one psysichs student and one information sciences student. So our group has nice diversity, which we believe will help us through the course.
+First thing to do was obviously the formation of our group. We formed a group of four, with two it-students, one physichs student and one information sciences student. So our group has nice diversity, which we believe will help us through the course.
 
 After getting to know each other a bit, we took a moment to think of the ideas for the project. First thing was, that we all wanted to do something else than basic running alarm clock. First two ideas that came up were some sort of sweeping machine and a mechanical drummer. Because those were all we came up with, we decide to think individually a few ideas and meet next week for more planning.
 
@@ -51,7 +51,7 @@ Some notes from testing the Mindstorms table sweeper:
 We had more sketches - especially Janne and Patrik have came up with excellent sketches with also some ideas to making it work. One of our main problems are how to make the Sweeper Keeper to realise the area it’ll sweep. As in will we first ”walk” it from corner to corner to know it’s boundaries and then start the actual sweeping, or will we just have sensors that detects the edges and turns away from it. 
 
 # Week 6
-One of our team members, Joonas, decided that he cannot no longer participate with the course. So itäll be the three of us, V-P, Janne and Patrik who will finish the project. 
+One of our team members, Joonas, decided that he cannot no longer participate with the course. So it'll be the three of us, V-P, Janne and Patrik who will finish the project. 
 
 # Week 7
 -
