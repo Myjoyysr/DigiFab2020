@@ -5,7 +5,7 @@ Course repository for Principles of Digital Fabrication in University of Oulu in
 
 # Introductory Report
 
-At the beginning we had plenty of ideas, like some sort of mechanical drummer, a drone, a sweeping robot, a laser guard, and MITÄ MUITA OLI?. First we narrowed our options down to three: a drone, a sweeping robot and a laser guard. These we joggled with the teachers, and decided to do sketches to sweeping robot and laser guard. 
+At the beginning we had plenty of ideas, like some sort of mechanical drummer, a drone, a sweeping robot, a laser guard, a drinking bottle, a spice box, a moving computer mouse, a car with voice commands, a fire alarm and an automated curtain opener. First we narrowed our options down to three: a drone, a sweeping robot and a laser guard. These we joggled with the teachers, and decided to do sketches to sweeping robot and laser guard. 
 
 KUVIA EKOISTA SKETSEISTÄ
 
@@ -14,7 +14,11 @@ After these first sketches we voted, and decided to go with the sweeping robot b
 LISÄÄ SKETSEJÄ
 
 Bill of Materials:
-
+    - 1 Arduino Uno
+    - 1 L293D Motor Driver Shield
+    - 2 Ultrasonic Sensor
+    - ... moottorit renkaille
+    - ... moottori sienelle
 
 
 # Week 1
