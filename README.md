@@ -14,11 +14,12 @@ After these first sketches we voted, and decided to go with the sweeping robot b
 LISÄÄ SKETSEJÄ
 
 Bill of Materials:
-    - 1 Arduino Uno
-    - 1 L293D Motor Driver Shield
-    - 2 Ultrasonic Sensor
-    - ... moottorit renkaille
-    - ... moottori sienelle
+
+    -  1 Arduino Uno
+    -  1 L293D Motor Driver Shield
+    -  2 Ultrasonic Sensor
+    -  ... moottorit renkaille
+    -  ... moottori sienelle
 
 
 # Week 1
@@ -55,7 +56,7 @@ Some notes from testing the Mindstorms table sweeper:
 We had more sketches - especially Janne and Patrik have came up with excellent sketches with also some ideas to making it work. One of our main problems are how to make the Sweeper Keeper to realise the area it’ll sweep. As in will we first ”walk” it from corner to corner to know it’s boundaries and then start the actual sweeping, or will we just have sensors that detects the edges and turns away from it. 
 
 # Week 6
-One of our team members, Joonas, decided that he cannot no longer participate with the course. So it'll be the three of us, V-P, Janne and Patrik who will finish the project. 
+One of our team members, Joonas, decided that he cannot no longer participate with the course. So it'll be the three of us, V-P, Janne and Patrik who will finish the project. Currently, we are thinking should we use continuous rotating servos or normal ones for wheels. Not sure if we can use motor drive shield.
 
 # Week 7
 -
