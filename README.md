@@ -66,5 +66,3 @@ One of our team members, Joonas, decided that he cannot no longer participate wi
 
 
 
-
-tinkercad: https://www.tinkercad.com/things/7d9ER2Wwvhb-sweeper-keeper-proto/editel?sharecode=tE-4k3Kj-56MzRve632cD-MEge9z6zjP1kaMr0jEEYU
