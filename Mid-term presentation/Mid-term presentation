@@ -24,7 +24,7 @@ The diary report up-to-date
 
 - We have also made first code sketches in Tinkercad. They can be seen in our repository.
 
-- For protoing, the electronics can function on 0 voltage battery and servos with four double a batteries.
+- For protoing, the electronics can function on 9 voltage battery and servos with four double a batteries.
 
 - The problems we have, are whether we'll need more sensors. As in, is it necessary to add sensors which measure the distance
 for the wheels. By doing this, we would be able to create smarter algorithms for sweeping the table.
