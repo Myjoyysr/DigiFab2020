@@ -19,11 +19,13 @@ The diary report up-to-date
 
 - We have also made first code sketches in Tinkercad. They can be seen in our repository.
 
+- For protoing, the electronics can function on 0 voltage battery and servos with four double a batteries.
 
-
+- The problems we have, are whether we'll need more sensors. As in, is it necessary to add sensors which measure the distance
+for the wheels. Vy doing this, we would be able to create smarter algorithms for sweeping the table.
 
 - The next step for us is to decide the servos and to choose if we want to add two rear-ping sensors for edge finding.
 
-- We also need to decide the power sources for electronics and servos.
+- We also need to make the final decisions of the power sources for electronics and servos. 
 
 - And last, we also need to decide if we want to still add rotary sponge with dc motor and include everything we decide to 3D model.
