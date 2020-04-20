@@ -10,7 +10,9 @@ The diary report up-to-date
   a guard for the laser in Fab Lab, and some sort of sweeping machine.
 
 - We did sketches for both of the ideas, and after that decided to go with the sweeping machine.
-  The basic idea for the sweeping machine is to clean the table. We named our project Sweeper Keeper.
+  The basic idea for the sweeping machine is to clean the table. It is going to push all large objects off the table.
+  For the dust etc, we have been thinking a rotating sponge under the machine or a dust wipe at the rear. Or maybe even both.
+  We named our project Sweeper Keeper.
 
 - Then we continued sketching and decided the version that we'll try and build. Based on this, we also made first 3d design with Fusion 360.
   The 3d sketch is also doable on laser cutter.
@@ -22,7 +24,10 @@ The diary report up-to-date
 - For protoing, the electronics can function on 0 voltage battery and servos with four double a batteries.
 
 - The problems we have, are whether we'll need more sensors. As in, is it necessary to add sensors which measure the distance
-for the wheels. Vy doing this, we would be able to create smarter algorithms for sweeping the table.
+for the wheels. By doing this, we would be able to create smarter algorithms for sweeping the table.
+
+- Another problem we thought of, that if we'll have a rotating sponge under the Sweeper Keeper, is it going to
+  rotate the whole machine? This is something that would probably need actual testing also.
 
 - The next step for us is to decide the servos and to choose if we want to add two rear-ping sensors for edge finding.
 
