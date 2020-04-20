@@ -6,14 +6,21 @@ The diary report up-to-date
 ---------------------------------------
 
 
+- At the beginning we had plenty of ideas, from which we first selected two: a guard for the laser in Fab Lab, and some sort of sweeping machine.
+
+- We did sketches for both of the ideas, and after that decided to go with the sweeping machine.
+
+- Then we continued sketching and decided the version that we'll try and build. Based on this, we also made first 3d  design with Fusion 360.
+- The 3d sketch is also doable on laser cutter.
+
+- We also did a Lego Mindstorm -proto. This gave us some ideas on how to make our project work.
 
 
 
 
 
+- The next step for us is to decide the servos and to choose if we want to add two rear-ping sensors for edge finding.
 
+- We also need to decide the power sources for electronics and servos.
 
-
-The next step for us is to decide the servos and to choose if we want to add two rear-ping sensors for edge finding.
-We also need to decide the power sources for electronics and servos.
-And last, we also need to decide if we want to still add rotary sponge with dc motor and include everything we decide to 3D model.
+- And last, we also need to decide if we want to still add rotary sponge with dc motor and include everything we decide to 3D model.
