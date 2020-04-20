@@ -59,7 +59,7 @@ We had more sketches - especially Janne and Patrik have came up with excellent s
 One of our team members, Joonas, decided that he cannot no longer participate with the course. So it'll be the three of us, V-P, Janne and Patrik who will finish the project. Currently, we are thinking should we use continuous rotating servos or normal ones for wheels. Not sure if we can use a motor driver shield. -> We decided to use continuously rotating servos in the wheels so we don't have to worry about the motor driver shield. We also finished our 3D design for the sweeper, which is also doable with a laser cutter. First Tinkercad sketches with code are also ready. The next step is to decide the servos, choose if we want to add two rear-ping sensors for edge finding, decide power sources for electronics and servos, decide if we want to still add rotary sponge with dc motor and include everything we decide to 3D model.
 
 # Week 7
--
+This week was the mid-term presentation. 
 
 # Week 8
 -
