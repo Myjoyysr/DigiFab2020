@@ -64,5 +64,20 @@ This week was the mid-term presentation. After the feedback from the teacher, we
 # Week 8
 -
 
-
+todo:
+    - Parts (sensors, servos, powersupplies)
+    - lasercutter files
+    - tinkercad updtates (sensors, code)
+    - final documentation
+    
+what we need:
+    a) CAD design and Arduino code
+    b) Simulation of code (in Tinkercad).
+    c) Complete BOM (Bill of Materials)
+    d) Quick prototype out of cardboard, paper or/and whatever available at home
+    e) Rendering / animation of the 3D design
+    f) include slic3r or similar for CAD designs that are intended for 3D printing
+    "Please note that the documentation is required as described the course introduction on the first lecture. Certainly, the delay of the course will affect the time of the documentation."
+    
+    
 
