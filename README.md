@@ -61,7 +61,7 @@ One of our team members, Joonas, decided that he cannot no longer participate wi
 # Week 7
 This week we had the mid-term presentation. After the feedback from the teachers, we are considering if we would change our ultrasonic-sensors to infrared. They might be cheaper and perhaps smaller. We did some some research, and it first seemed that they would actually be both larger and more expensive than the original sensors. But finally Janne discovered TCRT5000-infrared sensor which was cheap and small. So this is probably the one we will go with.
 
-We will also need to check the Metal Sheet Workspace for our 3d design. There are also a lot of final decisions for next week: the sensors, power sources and servos. 
+Patrik did some more specific 3d design, which is seen below. This is also pretty close to final one, and next week it should be finalised. We will also need to check out the Metal Sheet Workspace for our 3d design. There are also a lot of final decisions for next week: the sensors, power sources and servos. 
 
 # Week 8
 -
