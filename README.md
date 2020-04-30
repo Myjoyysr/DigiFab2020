@@ -74,7 +74,13 @@ todo:
         servos: SM-S4303R Continuous Rotation Servo x 2
         sensors: HC-SR04 Ultrasonic sensor x2 OR TCRT5000 IR sensor x2 OR ???
         power: 9V battery for electronis and four AA-batteries for servos OR ???
-    
+        powerswitch: ??
+       
+        
+        not sure if we need these, but:
+        sponge: ??
+        cloth: ??
+       
     - lasercutter files
     
     - tinkercad updtates (sensors, code)
