@@ -70,7 +70,10 @@ There are also a lot of final decisions for next week: the sensors, power source
 
 todo:
 
-    - Parts (sensors, servos, powersupplies)
+    - Parts (sensors, servos, powersupplies) 
+        servos: SM-S4303R Continuous Rotation Servo x 2
+        sensors: HC-SR04 Ultrasonic sensor x2 OR TCRT5000 IR sensor x2 OR ???
+        power: 9V battery for electronis and four AA-batteries for servos OR ???
     
     - lasercutter files
     
