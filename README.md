@@ -110,9 +110,6 @@ We decided to keep ultrasonic sensors because we couldn't test IR sensors and Ti
 We are currently almost finished with the requirements for the course completion (we need to get grades on the faster schedule). We have also talked if we would like to still make this robot later when the Fablab opens again. By then we would also like to include more features, like IR sensor for wheels and maybe change edge sensors to IR ones also and make some parts with the 3D printer, so we could also try that one out (for example wheels or some little parts for cosmetics purposes, like small cover for button)
 
 
-    
-    The final servo: SM-S3317SR
-
 todo:
 
     - Parts (sensors, servos, powersupplies) 
@@ -156,4 +153,5 @@ what we need:
 # Summary Report
 
 The final servo: SM-S3317SR
+
 Wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
