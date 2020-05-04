@@ -81,18 +81,19 @@ For our bill of materials, we have mainly tried to find parts that we can order 
 
 We are currently almost finished with the requirements for the course completion (we need to get grades on the faster schedule). We have also talked if we would like to still make this robot later when the Fablab opens again. By then we would also like to include more features, like IR sensor for wheels and maybe change edge sensors to IR ones. We might also want to make some parts with the 3D printer, so we could also try that one out (for example wheels or some little parts for cosmetics purposes, like small cover for button).
 
-We'll end the diary with a todolist for week 9 and finalizing the project:
+We'll end the diary with a todo-list for week 9 and finalizing the project:
 
-Parts (sensors, servos, powersupplies)
+Parts (sensors, servos, powersupplies etc.)
     servos: SM-S4303R Continuous Rotation Servo x 2 (or a smaller one, if we can find one)
     sensors: HC-SR04 Ultrasonic sensor
     power: 9V battery for electronics and four AA batteries for servos
     powerswitch: button
     parts: mdf
+    wheels: almost decided
     sponge: 1-2 normal kitchen sponges
     cloth: small microfiber cloth
     
-Lasercut files
+Lasercutter files
     almost done
     
 Tinkercad updates (sensors, code)
@@ -108,7 +109,7 @@ We decided to keep ultrasonic sensors because we couldn't test IR sensors and Ti
 
 We are currently almost finished with the requirements for the course completion (we need to get grades on the faster schedule). We have also talked if we would like to still make this robot later when the Fablab opens again. By then we would also like to include more features, like IR sensor for wheels and maybe change edge sensors to IR ones also and make some parts with the 3D printer, so we could also try that one out (for example wheels or some little parts for cosmetics purposes, like small cover for button)
 
- # Summary Report
+
     
     The final servo: SM-S3317SR
 
@@ -155,3 +156,4 @@ what we need:
 # Summary Report
 
 The final servo: SM-S3317SR
+Wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
