@@ -66,9 +66,51 @@ Patrik did some more specific 3d design, which is seen below. This is already pr
 There are also a lot of final decisions for next week: the sensors, power sources and servos. We still haven’t decided whether we’ll have the rotating sponge under the Sweeper Keeper. This would be a nice touch, but it might bring us some worries with the movement. We also need to finalize the coding. 
 
 # Week 8
+
+Round and round and round we go!
+
+After some hardcore long distance brainstorming, we decided to keep the ultrasonic sensors for a couple of reasons. First, we couldn't test IR sensors and Tinkercad didn't have the option to test them. Secondly, there is the issue of time. So all things considered, we decide to make the Sweeper Keeper work with the original sensors. On other things, we added an on/off button sketch to Tinkercad. Patrik also made a nice cardboard prototype, which is seen below.
+
+PHOTOS OF THE CARTBOARD PROTO
+
+If we had the components, we could try how our prototype is working and would start improving it (for example: measuring travel distances for more accurate turning and more advanced pathfinding on the table). We decided to keep our prototype simple for now, because of a lack of equipment and time for testing (as we all know, it's always easier to fix things when there is not a lot of problems and after that, it's easier to do improvements on the working platform.) We also had one Arduino laying around with one ultrasonic sensor, so we were able to test in reality how close the sensor can be towards the table.
+
+PHOTO OF THE SENSOR
+
+For our bill of materials, we have mainly tried to find parts that we can order from Finland due to the current situation. This would allow us to try and build the Sweeper Keeper after Fablab opens again. If we can order cheaper parts later from abroad, we might want to change servos to equivalent, but cheaper ones. Also, we think that our current option for power supplies (9 voltage for electronics and four AA batteries for servos) are fine for prototype purposes. Oh, and we are not going to include rotating sponge, because it would affect moving too much and it's something we would really need to test with parts if we wanted to include it. The sponge stays, but it won't be a rotating one.
+
+We are currently almost finished with the requirements for the course completion (we need to get grades on the faster schedule). We have also talked if we would like to still make this robot later when the Fablab opens again. By then we would also like to include more features, like IR sensor for wheels and maybe change edge sensors to IR ones. We might also want to make some parts with the 3D printer, so we could also try that one out (for example wheels or some little parts for cosmetics purposes, like small cover for button).
+
+We'll end the diary with a todolist for week 9 and finalizing the project:
+
+Parts (sensors, servos, powersupplies)
+    servos: SM-S4303R Continuous Rotation Servo x 2 (or a smaller one, if we can find one)
+    sensors: HC-SR04 Ultrasonic sensor
+    power: 9V battery for electronics and four AA batteries for servos
+    powerswitch: button
+    parts: mdf
+    sponge: 1-2 normal kitchen sponges
+    cloth: small microfiber cloth
+    
+Lasercut files
+    almost done
+    
+Tinkercad updates (sensors, code)
+    almost done
+    
+Final documentation
+    almost imagined
+
+
+-------------------
+
 We decided to keep ultrasonic sensors because we couldn't test IR sensors and Tinkercad didn't have the option to test them. We added an on/off button sketch to Tinkercad. Patrik also made a nice cardboard prototype. If we had components we could try how our prototype is working and we could start improving it. (for example, measuring travel distances for more accurate turning and more advanced pathfinding on the table). We decided to keep our prototype simple for now because of a lack of equipment for testing (It's easier to fix things when there is not a lot of problems and after that, it's easier to do improvements on the working platform.) We also had one Arduino laying around with one ultrasonic sensor, so we were able to test in reality how close the sensor can be towards the table. For our bill of materials, we are mainly tried to find parts that we can order from Finland due to the current situation if we can make our robot after Fablab opens again. If we can order cheaper parts later from abroad, we might want to change servos to equivalent, but cheaper ones. Also, we think that our current option for power supplies are fine for prototype purposes. Oh and we are not going to include rotating sponge, because it would affect moving too much and it's something we would really need to test with parts if we wanted to include it)
 
 We are currently almost finished with the requirements for the course completion (we need to get grades on the faster schedule). We have also talked if we would like to still make this robot later when the Fablab opens again. By then we would also like to include more features, like IR sensor for wheels and maybe change edge sensors to IR ones also and make some parts with the 3D printer, so we could also try that one out (for example wheels or some little parts for cosmetics purposes, like small cover for button)
+
+ # Summary Report
+    
+    The final servo: SM-S3317SR
 
 todo:
 
@@ -107,4 +149,9 @@ what we need:
     "Please note that the documentation is required as described the course introduction on the first lecture. Certainly, the delay of the course will affect the time of the documentation." <- Our documentation is up to date with weekly reports.aa
     
     
+   
+    
+    
+# Summary Report
 
+The final servo: SM-S3317SR
