@@ -66,20 +66,23 @@ Patrik did some more specific 3d design, which is seen below. This is already pr
 There are also a lot of final decisions for next week: the sensors, power sources and servos. We still haven’t decided whether we’ll have the rotating sponge under the Sweeper Keeper. This would be a nice touch, but it might bring us some worries with the movement. We also need to finalize the coding. 
 
 # Week 8
--
+We decided to keep ultrasonic sensors because we couldn't test IR sensors and Tinkercad didn't have the option to test them. We added an on/off button sketch to Tinkercad. Patrik also made a nice cardboard prototype. If we had components we could try how our prototype is working and we could start improving it. (for example, measuring travel distances for more accurate turning and more advanced pathfinding on the table). We decided to keep our prototype simple for now because of a lack of equipment for testing (It's easier to fix things when there is not a lot of problems and after that, it's easier to do improvements on the working platform.) We also had one Arduino laying around with one ultrasonic sensor, so we were able to test in reality how close the sensor can be towards the table. For our bill of materials, we are mainly tried to find parts that we can order from Finland due to the current situation if we can make our robot after Fablab opens again. If we can order cheaper parts later from abroad, we might want to change servos to equivalent, but cheaper ones. Also, we think that our current option for power supplies are fine for prototype purposes. Oh and we are not going to include rotating sponge, because it would affect moving too much and it's something we would really need to test with parts if we wanted to include it)
+
+We are currently almost finished with the requirements for the course completion (we need to get grades on the faster schedule). We have also talked if we would like to still make this robot later when the Fablab opens again. By then we would also like to include more features, like IR sensor for wheels and maybe change edge sensors to IR ones also.
 
 todo:
 
     - Parts (sensors, servos, powersupplies) 
         servos: SM-S4303R Continuous Rotation Servo x 2
-        sensors: HC-SR04 Ultrasonic sensor x2 OR TCRT5000 IR sensor x2 OR ???
-        power: 9V battery for electronis and four AA-batteries for servos OR ???
-        powerswitch: ??
+        sensors: HC-SR04 Ultrasonic sensor x2 (OR TCRT5000 IR sensor x2 OR ???)
+        power: 9V battery for electronis and four AA-batteries for servos (OR ???)
+        powerswitch: button
+        parts: mdf
        
         
         not sure if we need these, but:
-        sponge: ??
-        cloth: ??
+        sponge: 1-2 normal kitchen sponges
+        cloth: small microfiber cloth
        
     - lasercutter files
     
@@ -89,19 +92,19 @@ todo:
     
 what we need:
 
-    a) CAD design and Arduino code
+    a) CAD design and Arduino code. <- We have both, just need to clean the code
     
-    b) Simulation of code (in Tinkercad).
+    b) Simulation of code (in Tinkercad). <- We have, working fine with our simple code sketch
     
-    c) Complete BOM (Bill of Materials)
+    c) Complete BOM (Bill of Materials) <- We need to check this out.
     
-    d) Quick prototype out of cardboard, paper or/and whatever available at home
+    d) Quick prototype out of cardboard, paper or/and whatever available at home <- We have, a good looking one
     
-    e) Rendering / animation of the 3D design
+    e) Rendering / animation of the 3D design <- We have (do we really need animation? I think pictures we have are already good enough)
     
-    f) include slic3r or similar for CAD designs that are intended for 3D printing
+    f) include slic3r or similar for CAD designs that are intended for 3D printing <- We have lasercutter files. (Do we have wheels?)
     
-    "Please note that the documentation is required as described the course introduction on the first lecture. Certainly, the delay of the course will affect the time of the documentation."
+    "Please note that the documentation is required as described the course introduction on the first lecture. Certainly, the delay of the course will affect the time of the documentation." <- Our documentation is up to date with weekly reports.aa
     
     
 
