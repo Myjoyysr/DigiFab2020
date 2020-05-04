@@ -69,7 +69,7 @@ There are also a lot of final decisions for next week: the sensors, power source
 
 Round and round and round we go!
 
-After some hardcore long distance brainstorming, we decided to keep the ultrasonic sensors for a couple of reasons. First, we couldn't test IR sensors and Tinkercad didn't have the option to test them. Secondly, there is the issue of time. So all things considered, we decide to make the Sweeper Keeper work with the original sensors. On other things, we added an on/off button sketch to Tinkercad. Patrik also made a nice cardboard prototype, which is seen below.
+After some hardcore long distance brainstorming, we decided to keep the ultrasonic sensors for a couple of reasons. First, we couldn't test IR sensors and Tinkercad didn't have the option to test them. Secondly, there is the issue of time. So all things considered, we decided to make the Sweeper Keeper work with the original sensors. On other things, we added an on/off button sketch to Tinkercad. Patrik also made a nice cardboard prototype, which is seen below.
 
 PHOTOS OF THE CARTBOARD PROTO
 
