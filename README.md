@@ -156,6 +156,10 @@ The final servo: SM-S3317SR
 
 Wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
 
+-------------------------------------------------------------------------------------------------------
+
+
+
 Bill of Materials:
     - Arduino Uno
     - SM-S3317SR Continuous Rotation Servo x 2 
