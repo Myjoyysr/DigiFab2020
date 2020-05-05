@@ -161,7 +161,8 @@ Wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50
 
 
 Bill of Materials:
-    - Arduino Uno
+
+    - Arduino Uno       
     - SM-S3317SR Continuous Rotation Servo x 2 
     - HC-SR04 Ultrasonic sensor 
     - 9V battery (for electronics)
