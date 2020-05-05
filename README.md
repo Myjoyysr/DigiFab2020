@@ -157,15 +157,17 @@ The final servo: SM-S3317SR
 Wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
 
 Bill of Materials:
+    - Arduino Uno
     - SM-S3317SR Continuous Rotation Servo x 2 
     - HC-SR04 Ultrasonic sensor 
     - 9V battery (for electronics)
     - AA batteries x4 (for servos) 
-    - powerswitch: button 
+    - powerswitch: button ??
     - mdf 
     - wheels: Sponge wheel 50mm air? 
     - sponge: 1-2 normal kitchen sponges 
     - cloth: small microfiber cloth
+    
 
 It is time wrap up the project! We have had quite interesting weeks with some totally unexpected issues (yes, we are referring to covid-19), some hardcore long distance brainstorming (whatsapp was on fire!), playing with Legos (some mindstorming over here), twisting and turning cartboard and so on. What is most important: we did it! Of course we did it in the reality we are living in, so what we actually did is a nice cartboard proto of a cleaning robot called Sweeper Keeper. Of course we did also all the planning, coding, 3d modeling and so on, so after the situation gets normal, we are able to actually try and build the Sweeper Keeper. But as we need the grades right now, for the course this is the resolution.
 
