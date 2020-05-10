@@ -182,8 +182,8 @@ So, everything should be done: we have a cartboard proto (which actually looks q
   
   For 2.0
    - IR sensors for better movement
-   - power switch (so you don't need to take battery off) 
-   -?? 
+   - power switch (so you don't need to take battery off)
+   - what else?? 
    
   What else did we learn? 
 
