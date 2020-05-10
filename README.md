@@ -185,10 +185,12 @@ So, everything should be done: we have a cartboard proto (which actually looks q
    - power switch (so you don't need to take battery off)
    - what else?? 
    
+Our group didn't have too much experience with electronics or Arduino before our project, so most important lesson for us would be that we should have finished our first bill of materials as soon as we decided to go with table cleaning robot and we should have ordered components so we could have tested them and made the improvements that we wanted to do. Of course, if we were able to do some testing in Fablab things would have been a little bit different, but this was something that we knew when Fablab was shutdown and we still didn't order the components.
+   
   What else did we learn? 
 
 
   ### Feedback to course responsibles
   
-  text
+  Feedback from midterm was really helpful. Blog platform might need some improvements?
   
