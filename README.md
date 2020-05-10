@@ -154,44 +154,58 @@ what we need:
 # Summary Report
 
 
-Bill of Materials:
-
-    - Arduino Uno       
-    - SM-S3317SR Continuous Rotation Servo x 2 
-    - HC-SR04 Ultrasonic sensor 
-    - 9V battery (for electronics)
-    - AA batteries x4 (for servos) 
-    - momentary button (http://robomaa.fi/index.php?route=product/product&product_id=1763&search=Panel+mount) 
-    - mdf 
-    - wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
-    - sponge: 1-2 normal kitchen sponges 
-    - cloth: small microfiber cloth
     
   ### Wrap up of the project
 
-It is time wrap up the project! We have had quite interesting weeks with some totally unexpected issues (yes, we are referring to covid-19), some hardcore long distance brainstorming (whatsapp was on fire!), playing with Legos (some mindstorming over here), twisting and turning cartboard and so on. What is most important: we did it! Of course we did it in the reality we are living in, so what we actually did is a nice cartboard proto of a cleaning robot called Sweeper Keeper. Of course we did also all the planning, coding, 3d modeling and so on, so after the situation gets normal, we are able to actually try and build the Sweeper Keeper. But as we need the grades right now, for the course this is the resolution.
+It is time to wrap up the project! We have had quite interesting weeks with some totally unexpected issues (yes, we are referring to covid-19), some hardcore long distance brainstorming (whatsapp was on fire!), playing with Legos (some mindstorming over here), twisting and turning cartboard and so on. What is most important: we did it! Of course we did it in the reality we are living in, so what we actually did is a nice cartboard proto of a table cleaning robot called Sweeper Keeper. Of course we did also all the planning, coding, 3d modeling and so on, so after the situation gets normal, we are able to actually try and build the Sweeper Keeper. But as we need the grades right now, for the course this is the resolution.
 
-PHOTOS
+ 
+        Photos of the evolution of Sweeper Keeper
 
-For the last week we had a few things left to do. We already had the cartboard proto, laser cutter files, 3d model, almost all the parts were decided, and the coding was almost there. The latest needed some finalizing, but not much. Also we were yet to make final decisions for wheels, sponges and cloths. Also, we needed some exact measurements, so we would be able to place everything nicely in the Sweeper Keeper. We made holes for the servo, sensors and momentary button. As noted last week, we decided to stick with the originals sensors, because the time was running and we had no ways for testing. But the servo we did change to a smaller one, because we realized that the one we had wouldn't fit in the model. So it was either more adjustement to the model, or finding a new servo. Fortunately Janne found a smaller servo, and our problem was solved.
+For the last week we had a few things left to do. We already had the cartboard proto, laser cutter files, 3d model, almost all the parts were decided, and the coding was almost there. The latest needed some finalizing, but not much.
 
-PHOTOS
+        Tinkercad photo
+
+Also we were yet to make final decisions for wheels, sponges and cloths. Then we needed some exact measurements, so we would be able to place everything nicely in the Sweeper Keeper. We made holes for the servo, sensors, usb-port and momentary button and added floor in the middle for better support.
+
+        Photos of cross section of the 3d model and laser cutter design
+
+As noted last week, we decided to stick with the originals sensors, because the time was running and we had no ways for testing. But the servo we did change to a smaller one, because we realized that the one we had wouldn’t fit in the model. So it was either more adjustement to the model, or finding a new servo. Fortunately Janne found a smaller servo, and our problem was solved.
 
 So, everything should be done: we have a cartboard proto (which actually looks quite nice!), the coding is done and simulated in Tinkercad, we have a 3d model and laser cutter files, our Bill of Materials is complete and all the documentation is done properly. Of course, should there be a Sweeper Keeper 2.0, there would probably be some adjustement to it. But as it is, we are proud to announce that our project is done!
 
+Bill of Materials
+
+    Arduino Uno
+    SM-S3317SR Continuous Rotation Servo x 2
+    HC-SR04 Ultrasonic sensor
+    9V battery (for electronics)
+    AA batteries x4 (for servos)
+    momentary button (http://robomaa.fi/index.php?route=product/product&product_id=1763&search=Panel+mount)
+    mdf
+    wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
+    sponge: 1-2 normal kitchen sponges
+    cloth: small microfiber cloth
+
+
+
+
   ### Lesson learned
   
-  For Sweeper Keeper 2.0 there would be
-   - IR sensors for better movement
-   - power switch (so you don't need to take battery off)
-   - what else?? 
-   
-Our group didn't have too much experience with electronics or Arduino before our project, so most important lesson for us would be that we should have finished our first bill of materials as soon as we decided to go with table cleaning robot and we should have ordered components so we could have tested them and made the improvements that we wanted to do. Of course, if we were able to do some testing in Fablab things would have been a little bit different, but this was something that we knew when Fablab was shut down and we didn't discuss if we wanted to get grades on a faster schedule. All in all, it was an interesting course from which we all learned something.
-   
+  If we would make a Sweeper Keeper 2.0 there would probably be:
+
+    IR sensors for better movement
+    power switch (so you don’t need to take the battery off)
+    testing, testing and more testing
+    rotating sponge (if we could make it work)
+
+ 
+
+Our group didn’t have too much experience with electronics or Arduino before our project, so maybe the most important lesson for us would be that we should have finished our first Bill of Materials as soon as we decided to go with table cleaning robot. Then we should have ordered components so we could have tested them and made the improvements that we wanted to do. Of course, if we were able to do some testing in Fab Lab, things would have been a little bit different. But this was something that we knew when Fab Lab was shut down and we didn’t discuss if we wanted to get grades on a faster schedule. All in all, it was an interesting course from which we all learned something.
   
 
 
   ### Feedback to course responsibles
   
-  Feedback from midterm was really helpful. Blog platform might need some improvements, for example it would be nice if everyone could edit the posts. It was also quite irritating to get the phots aligned properly in the blog. There were also times, especially in the beginning, when it was hard to know what should be done and when. So maybe the instruction could be more specific. 
+  Feedback from midterm was really helpful. Blog platform might need some improvements, for example it would be nice if everyone could edit the posts. It was also quite irritating to get the photos aligned properly in the blog. There were also times, especially in the beginning of the course, when it was hard to know what should be done and when. So maybe the instructions could be more specific.
   
