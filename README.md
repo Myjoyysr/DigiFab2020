@@ -180,7 +180,13 @@ So, everything should be done: we have a cartboard proto (which actually looks q
 
   ### Lesson learned
   
-  text
+  For 2.0
+   - IR sensors for better movement
+   - power switch (so you don't need to take battery off) 
+   -?? 
+   
+  - what else did we learn? 
+
 
   ### Feedback to course responsibles
   
