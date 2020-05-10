@@ -160,9 +160,9 @@ Bill of Materials:
     - HC-SR04 Ultrasonic sensor 
     - 9V battery (for electronics)
     - AA batteries x4 (for servos) 
-    - powerswitch: button ??
+    - momentary button (http://robomaa.fi/index.php?route=product/product&product_id=1763&search=Panel+mount) 
     - mdf 
-    - wheels: Sponge wheel 50mm air? (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
+    - wheels: Sponge wheel 50mm air (https://www.hobbylinna.fi/product/sponge-wheel-50mm-air/8306105A/)
     - sponge: 1-2 normal kitchen sponges 
     - cloth: small microfiber cloth
     
