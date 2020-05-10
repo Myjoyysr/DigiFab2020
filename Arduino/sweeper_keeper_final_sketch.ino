@@ -131,10 +131,10 @@ void button_go(){
       		robo_on = true;
     	}
   	delay(200);
-  }
+  	}
 }
 void robo_move(){
-    if (robo_on){
+	if (robo_on){
   		cm1 = ping_right();
   		cm2 = ping_left();  
   		delay(10);  
@@ -164,15 +164,4 @@ void robo_move(){
 void loop(){
   	button_go();
   	robo_move();
-}
-
-
-      
-      
-      
-      
-      
-      
-      
-      
-      
+}  
