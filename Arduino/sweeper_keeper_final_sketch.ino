@@ -124,12 +124,12 @@ void button_go(){
    	 	Serial.print("Pressed button");
   	  	Serial.println();
     	if (robo_on){
-			robo_on = false;
+		robo_on = false;
       		delay(1000);
     	}
     	else{
       		robo_on = true;
-    }
+    	}
   	delay(200);
   }
 }
@@ -138,27 +138,26 @@ void robo_move(){
   		cm1 = ping_right();
   		cm2 = ping_left();  
   		delay(10);  
-  
   		if (cm1 < 3 || cm2 < 3){
-    		pos = forward(150);
-    		if(cm1 > 3){
-      		turn_left = true;
-    		}
-    		else{
-      		turn_left = false;
-    		}
+    			pos = forward(150);
+    			if(cm1 > 3){
+      				turn_left = true;
+    			}
+    			else{
+      			turn_left = false;
+    			}
   		}
   		if (cm1 > 3 && cm2 > 3){
-    		if (turn_left){
+    			if (turn_left){
 				turning_left();
-    		}
-    		else{
+    			}
+    			else{
 				turning_right();
-    		}
+    			}
   		}
   	}
   	else{
-    	stop(100);
+    		stop(100);
   	}
 }
 //********//
