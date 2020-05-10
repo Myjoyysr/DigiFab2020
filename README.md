@@ -185,7 +185,7 @@ So, everything should be done: we have a cartboard proto (which actually looks q
    - power switch (so you don't need to take battery off) 
    -?? 
    
-  - what else did we learn? 
+  What else did we learn? 
 
 
   ### Feedback to course responsibles
