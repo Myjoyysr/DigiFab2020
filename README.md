@@ -181,17 +181,17 @@ So, everything should be done: we have a cartboard proto (which actually looks q
 
   ### Lesson learned
   
-  For 2.0
+  For Sweeper Keeper 2.0 there would be
    - IR sensors for better movement
    - power switch (so you don't need to take battery off)
    - what else?? 
    
-Our group didn't have too much experience with electronics or Arduino before our project, so most important lesson for us would be that we should have finished our first bill of materials as soon as we decided to go with table cleaning robot and we should have ordered components so we could have tested them and made the improvements that we wanted to do. Of course, if we were able to do some testing in Fablab things would have been a little bit different, but this was something that we knew when Fablab was shut down and we didn't discuss if we wanted to get grades on a faster schedule.
+Our group didn't have too much experience with electronics or Arduino before our project, so most important lesson for us would be that we should have finished our first bill of materials as soon as we decided to go with table cleaning robot and we should have ordered components so we could have tested them and made the improvements that we wanted to do. Of course, if we were able to do some testing in Fablab things would have been a little bit different, but this was something that we knew when Fablab was shut down and we didn't discuss if we wanted to get grades on a faster schedule. All in all, it was an interesting course from which we all learned something.
    
-  What else did we learn? 
+  
 
 
   ### Feedback to course responsibles
   
-  Feedback from midterm was really helpful. Blog platform might need some improvements?
+  Feedback from midterm was really helpful. Blog platform might need some improvements, for example it would be nice if everyone could edit the posts. There were also times, especially in the beginning, when it was hard to know what should be done and when. So maybe the instruction could be more specific. 
   
