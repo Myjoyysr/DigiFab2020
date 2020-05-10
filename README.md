@@ -166,7 +166,7 @@ For the last week we had a few things left to do. We already had the cartboard p
 
         Tinkercad photo
 
-Also we were yet to make final decisions for wheels, sponges and cloths. Then we needed some exact measurements, so we would be able to place everything nicely in the Sweeper Keeper. We made holes for the servo, sensors, usb-port and momentary button and added floor in the middle for better support.
+Also we were yet to make final decisions for wheels, sponges and cloths. Then we needed to finalize the 3d model. For that we needed some exact measurements, so we would be able to place everything nicely in the Sweeper Keeper. We made holes for the servo, sensors, usb-port and momentary button and added floor in the middle for better support. We also made some adjustement to the roof, so the battery will be accessible.
 
         Photos of cross section of the 3d model and laser cutter design
 
