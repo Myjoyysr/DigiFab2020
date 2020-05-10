@@ -194,7 +194,8 @@ Bill of Materials
   
   If we would make a Sweeper Keeper 2.0 there would probably be:
 
-    IR sensors for better movement
+    IR sensors for better movement (we could measure the distance)
+    3d printed wheels
     power switch (so you don’t need to take the battery off)
     testing, testing and more testing
     rotating sponge (if we could make it work)
