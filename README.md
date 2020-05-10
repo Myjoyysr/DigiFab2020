@@ -173,7 +173,7 @@ It is time wrap up the project! We have had quite interesting weeks with some to
 
 PHOTOS
 
-For the last week we had a few things left to do. We already had the cartboard proto, laser cutter files, 3d model, almost all the parts were decided, and the coding was almost there. The latest needed some finalizing, but not much. Also we were yet to make final decisions for wheels, sponges and cloths. Also, we needed some exact measurements, so we would be able to place everything nicely in the Sweeper Keeper. As noted last week, we decided to stick with the originals sensors, because the time was running and we had no ways for testing. But the servo we did change to a smaller one, because we realized that the one we had wouldn't fit in the model. So it was either adjustement to the model, or finding a new servo. Fortunately Janne found a smaller servo, and our problem was solved.
+For the last week we had a few things left to do. We already had the cartboard proto, laser cutter files, 3d model, almost all the parts were decided, and the coding was almost there. The latest needed some finalizing, but not much. Also we were yet to make final decisions for wheels, sponges and cloths. Also, we needed some exact measurements, so we would be able to place everything nicely in the Sweeper Keeper. We made holes for the servo, sensors and momentary button. As noted last week, we decided to stick with the originals sensors, because the time was running and we had no ways for testing. But the servo we did change to a smaller one, because we realized that the one we had wouldn't fit in the model. So it was either more adjustement to the model, or finding a new servo. Fortunately Janne found a smaller servo, and our problem was solved.
 
 PHOTOS
 
