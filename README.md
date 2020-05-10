@@ -193,5 +193,5 @@ Our group didn't have too much experience with electronics or Arduino before our
 
   ### Feedback to course responsibles
   
-  Feedback from midterm was really helpful. Blog platform might need some improvements, for example it would be nice if everyone could edit the posts. There were also times, especially in the beginning, when it was hard to know what should be done and when. So maybe the instruction could be more specific. 
+  Feedback from midterm was really helpful. Blog platform might need some improvements, for example it would be nice if everyone could edit the posts. It was also quite irritating to get the phots aligned properly in the blog. There were also times, especially in the beginning, when it was hard to know what should be done and when. So maybe the instruction could be more specific. 
   
