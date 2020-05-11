@@ -144,7 +144,7 @@ void robo_move(){
       				turn_left = true;
     			}
     			else{
-      			turn_left = false;
+      				turn_left = false;
     			}
   		}
   		if (cm1 > 3 && cm2 > 3){
