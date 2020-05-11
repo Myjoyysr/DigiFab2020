@@ -123,14 +123,14 @@ void button_go(){
   	if (buttonValue == LOW){
    	 	Serial.print("Pressed button");
   	  	Serial.println();
-    	if (robo_on){
-		robo_on = false;
-      		delay(1000);
-    	}
-    	else{
-      		robo_on = true;
-    	}
-  	delay(200);
+    		if (robo_on){
+			robo_on = false;
+      			delay(1000);
+    		}
+    		else{
+      			robo_on = true;
+    		}
+  		delay(200);
   	}
 }
 void robo_move(){
